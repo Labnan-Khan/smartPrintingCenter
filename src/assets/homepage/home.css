@@ -521,10 +521,12 @@ h2{
     }
     .timeLine .timelineLocationSection{
         flex-direction: column;
+        height: auto;
     }
     
     .homepage .timeLine .timelineLocationSection .locationleftside{
         width: 100%;
+        height: fit-content;
     }
 
     .homepage .timeLine .timelineLocationSection .locationImg{
