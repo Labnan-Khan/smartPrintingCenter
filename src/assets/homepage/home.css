@@ -509,3 +509,26 @@ h2{
     background-repeat: no-repeat;
     position: relative;
 }
+
+
+@media (max-width:768px){
+    .timeLine{
+        padding: 20px;
+    }
+    .timeLine h1{
+        width: 100%;
+        text-align: center;
+    }
+    .timeLine .timelineLocationSection{
+        flex-direction: column;
+    }
+    
+    .homepage .timeLine .timelineLocationSection .locationleftside{
+        width: 100%;
+    }
+
+    .homepage .timeLine .timelineLocationSection .locationImg{
+        width: 100%;
+        aspect-ratio: 9/9;
+    }
+}
