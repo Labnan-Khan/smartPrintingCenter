@@ -204,7 +204,7 @@ h2{
 }
  .aboutOurStory .outStorySection .storyitemImgSection:nth-child(4){
     grid-area: item4;
-    background-image: url(../images\ \(1\).jpeg);
+    background-image: url(../img1.jpeg);
 }
  .aboutOurStory .outStorySection .storyitemDetailSection:nth-child(5){
     grid-area: item5;
